@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DatacenterUtilsCheckTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-10-04T06:53:43" hostname="LAPTOP-KUDMLU21" time="0.194">
+  <properties/>
+  <testcase name="checkCreateHost" classname="DatacenterUtilsCheckTest" time="0.05"/>
+  <testcase name="checkCreateBroker" classname="DatacenterUtilsCheckTest" time="0.034"/>
+  <testcase name="checkCreateNetworkDatacenter" classname="DatacenterUtilsCheckTest" time="0.017"/>
+  <testcase name="checkCreateMapper" classname="DatacenterUtilsCheckTest" time="0.008"/>
+  <testcase name="checkCreateReducer" classname="DatacenterUtilsCheckTest" time="0.002"/>
+  <testcase name="checkCreateVM" classname="DatacenterUtilsCheckTest" time="0.02"/>
+  <testcase name="checkCreateDatacenter" classname="DatacenterUtilsCheckTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
