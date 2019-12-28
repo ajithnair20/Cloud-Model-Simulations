@@ -1,6 +1,6 @@
 *** STEPS TO BUILD AND RUN PROJECT ***
 --------------------------------------------------------
-1) Clone Project using command "git clone https://ajithnair08@bitbucket.org/ajithnair08/cs441homework1.git"
+1) Clone Project using command "git clone https://github.com/ajithnair20/Cloud-Model-Simulations.git"
 2) Navigate to folder "Ajith_Nair_hw1" from command line
 3) Execute command "gradle clean build"
 4) Execute command "gradle test"
